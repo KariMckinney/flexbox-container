@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    background-color: bisque;
+    justify-content: center;
+    gap: 10px;
+}
+
+div {
+    background-color: oldlace;
+    align-items: center;
+    margin: 10px;
+    padding: 20px;
+}
+
+#block {
+border: 1px solid black;
+background-color: white;
+}
+
+span {
+border: 1px solid black;
+}
+
+form {
+    display: flex;
+}
